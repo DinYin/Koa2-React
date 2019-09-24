@@ -6,3 +6,4 @@
 所有的过程全链路：应用服务对象
 
 对应到koa里Application ——Cookie
+nodefs模块readFile
